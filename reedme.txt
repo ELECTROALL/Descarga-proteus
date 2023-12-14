@@ -1,0 +1,119 @@
+--------------------------
+I N S T R U C C I O N E S 
+--------------------------
+
+Ejecute proteus8.15.SP1.exe
+Durante el proceso de instalación, seleccione el archivo License2.lxk del archivo comprimido e instale la licencia.
+Continúe instalando el programa y espere a que se complete la instalación.
+Aplique el medicamento Patch-Proteus-3.15-SP0-33980.0.exe (debe encontrar la ruta a los archivos a través del registro).
+
+Listo !!!!
+
+
+¿Cómo encuentras la ruta de instalación en una computadora?
+-------------------------------------------------- -------------------
+
+- En una máquina con Windows, puede hacer clic derecho fácilmente en un acceso directo y "Abrir ubicación de archivo".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+Visita: www.descargaspcpro.net
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+Visita: www.descargaspcpro.net
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+Visita: www.descargaspcpro.net
+------------------------------
